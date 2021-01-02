@@ -1,2 +1,2 @@
 # Interactive-English-Dictionay
-![](https://ibb.co/MNCC6vP
+![Alt text](http://ibb.co/MNCC6vP "Optional title")
